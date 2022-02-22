@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamacion, set furth by the kynges Maiestie with thassent of his derest vncle, Edward Duke of Somerset, gouernor of his moste royall persone, and of his realmes, dominions and subiectes protector, and others of his moste honorable counsaill, for the ratyng, assessyng, and ordre of the prices of victuals.</title>
+            <title>Proclamations. 1549-01-28</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1549</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21513</idno>
+            <idno type="STC">STC 7823</idno>
+            <idno type="STC">ESTC S110355</idno>
+            <idno type="EEBO-CITATION">99845913</idno>
+            <idno type="PROQUEST">99845913</idno>
+            <idno type="VID">10844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10844)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 25:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamacion, set furth by the kynges Maiestie with thassent of his derest vncle, Edward Duke of Somerset, gouernor of his moste royall persone, and of his realmes, dominions and subiectes protector, and others of his moste honorable counsaill, for the ratyng, assessyng, and ordre of the prices of victuals.</title>
+                  <title>Proclamations. 1549-01-28</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Richardi Graftoni Regij impressoris. Cum priuilegio ad imprimendum solum,</publisher>
+                  <pubPlace>Excusum Londini :</pubPlace>
+                  <date>[1549]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Price regulation --  England --  Early works to 1800.</term>
+               <term>Food law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:10844:1"/>
+            <head>¶ A Proclamation, ſet furth by the kynges Maieſtie, with thaſſent of his dereſt vncle, Edward Duke of Somerſet, Gouernor of his moſte royall perſone, and of his realmes, dominions and ſubiectes Protector, and others of his moſte honorable Counſaill, for the ratyng, aſſeſſyng, and ordre of the prices of victuals.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He kynges maieſtie, hauyng the principall and continuall charge of the common wealth, and tranquilitie of this realme for the whiche cauſe al<g ref="char:EOLhyphen"/>mightie God hath geuen to his Maieſtie, power to rule: and to all his people, hath enioyned lowlines to obeye: certainly vnderſtandeth, by the informacion and good aduice of his moſte dere Uncle, Edwarde Duke of Somerſet, Gouernor of his moſte royall perſon and Protector of his Realmes, Dominions and Subiectes, and others of his priuey Coun<g ref="char:EOLhyphen"/>ſaill: That of late tyme, the prices of all maner of victuall, neceſſary for mannes ſuſtenaunce, be ſo heigthened and raiſed, aboue the accuſtomed and reaſonable values, that ther<g ref="char:EOLhyphen"/>by (except ſpedy remedy be prou<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed) very great loſſe and dammage, muſt nedes chaunce to his maieſties louyng ſubiectes. And therefore bothe of wiſedome, wherewith his maieſtie vſeth to conſider the ſtate of his common wealth, and of pitie, whiche at all tymes his Maieſtie conceiueth vpon the lacke and greues of his people hath by long and deliberate ſtudie, of his ſaied dere Uncle, the lorde Protector, and the reſt of his priuey counſaill, concluded, and finally reſolued, to prouide remedy herein, the whiche (reſtyng vpo<g ref="char:cmbAbbrStroke">̄</g> the former redreſſe, of ſondrie diſſordres in the whole common wealth) although it cannot be ſo abſolute<g ref="char:EOLhyphen"/>ly and ſpedely had, as his maieſties moſte hartie deſire is: yet it is thought by his maieſtie, for the preſent diſorders, a great relief, to put in due execution, diuerſe good lawes and ſtatuter, prouided heretofore, by thaucthoritie of Parliament, in the reignes of the kynges maieſties moſte noble progenitours, and eſpe<g ref="char:EOLhyphen"/>cially twoo pollitique good eſtatutes, made at Weſtminſter, in the .xxv. yere of the reigne of his maieſties moſte dere father, late deceaſſed, kyng Henry theight, or deined, as by theſame appereth, very pollitiquely for the redreſſe of theſe like diſordres of prices, whiche at any tyme thence after might happen. Theffecte of whiche later eſtatute is, that the Lorde Treaſorer, the Lorde Chauncellor of Englande, the lorde Pre<g ref="char:EOLhyphen"/>ſident of the kynges moſte honorable counſaill, the Lorde priuey Seale, the Lorde Steward, the Lorde Chamberlain, and all other Lordes of the kynges counſaill: The Treaſorer and Comptroller of the kyn<g ref="char:EOLhyphen"/>ges moſte honorable houſe, the Chau<g ref="char:cmbAbbrStroke">̄</g>cellor of the Duchie of Lancaſtre, the Iuſtices of either Benche, the Chauncellor, Chamberlain, vnder Treaſorer, and the Barons of the kynges Exchequier, or .vii. of them at the leaſt, whereof the Lorde Treaſorer, the Lorde Chauncellor, the Lorde Preſident of the kynges cou<g ref="char:cmbAbbrStroke">̄</g>, ſaill, or the Lorde priuey Seale to bee one, ſhould haue power and aucthoritie, from tyme to tyme (as the caſe ſhould require) to ſet and taxe reaſonable prices, of all kyndes of victualles, mencioned in theſaied act, how thei ſhould be ſold in groſſe or by retayle, for relief of the kynges ſubiectes. And that after ſuche prices ſet and taxed, in fourme aforeſaied: Proclamation ſhould bee made in the kynges name, vnder the greate Scale of theſaied prices, in ſuche partes of this realme, as ſhould be conuenient for theſame.</p>
+            <p>And it was further enacted, by theſaid eſtatute, that al Fermors, Owners, Broggers, and all other vi<g ref="char:EOLhyphen"/>ctualers whatſoeuer, hauyng and kepyng any of the kyndes of victualles, mencioned in theſaied acte, to thintent to ſell, ſhould ſell theſame to ſuche, the kynges ſubiectes, as would buye them, at ſuche prices as ſhould be ſet and taxed, by theſaied Proclamacion vpon the paines to be expreſſed, and limitted in theſaid Proclamacion, to be loſt, forfeicted, and leuied to the kynges vſe, in ſuche wiſe, as by theſaied Proclama<g ref="char:EOLhyphen"/>tion ſhould be declared.</p>
+            <p>And it was further prouided, by theſaid act, that theſame act, or any thyng therin conteined, ſhould not be hurtfull to M<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iors Sheriefes, Bailiefes, and other officers, of Citees, Boroughes, and Tounes cor<g ref="char:EOLhyphen"/>porate,
+<pb facs="tcp:10844:2"/>nor to any perſone or perſones, or bodies poilitique hauyng aucthoritie, to ſet prices of ſuche vi<g ref="char:EOLhyphen"/>ctualies, or of any of them, but that thei and euery of them, might ſet prices thereof, as if theſame acte had neuer been had nor made, as by theſame act, emongeſt other thynges, more at large it doth &amp; maie appere.</p>
+            <p>And foraſmuche as co<g ref="char:cmbAbbrStroke">̄</g>plaint hath been made, of the enhaunſyng of prices, of theſame victualles, with<g ref="char:EOLhyphen"/>out ground or cauſe reaſonable, in all partes of this realme: In conſideracion whereof, the Lorde Trea<g ref="char:EOLhyphen"/>ſorer, the Lorde Chauncellor of England, and all others requiſite by theſaid eſtatute, haue by aucthorite of theſame act, ſet and taxed reaſonable prices, of all kynde of victualles, mencioned in theſame acte, to be ſold in forme followyng, to thintent theſame ſhould be Proclaimed, accordyng to theſame act: That is to ſaie, that fro<g ref="char:cmbAbbrStroke">̄</g> the daie of this Proclamacion made, without delaie, all and ſynguler perſone and perſones, hauyng or kepyng, any of the kindes of victualles, me<g ref="char:cmbAbbrStroke">̄</g>cioned in theſaid act, within this realme, to thintent to ſell, ſhall ſell theſame to ſuche of the kynges ſubiectes, as will buye them at the prices, hereafter menci<g ref="char:EOLhyphen"/>oned, that is to ſaie: from Midſomer to Hallowmas, euery Oxe beyng primed or well ſtricken, of the lar<g ref="char:EOLhyphen"/>geſt bone. xxxviii. s<g ref="char:cmbAbbrStroke">̄</g>. of a meaner ſort. xxviii. s<g ref="char:cmbAbbrStroke">̄</g>. An Oxe fat, and of the largeſt bone. xlv. s<g ref="char:cmbAbbrStroke">̄</g>. of the meaner ſort beyng fatte. xxxviii. s<g ref="char:cmbAbbrStroke">̄</g>. Steres and Runtes, beyng primed or wel ſtriken, and large of bone. xx. s<g ref="char:cmbAbbrStroke">̄</g>. of a mea<g ref="char:EOLhyphen"/>ner ſort. xvi. s<g ref="char:cmbAbbrStroke">̄</g>. beyng fatte and of the largeſt bone. xxv. s<g ref="char:cmbAbbrStroke">̄</g>. beeyng fat of a meaner ſort. xxi. s<g ref="char:cmbAbbrStroke">̄</g>. Heifurths and Kyne, beyng primed or well ſtricken, and large of bone. xvi. s<g ref="char:cmbAbbrStroke">̄</g>. of a meaner ſort, xiii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. d. beyng fat and large of bone. xxii. s<g ref="char:cmbAbbrStroke">̄</g>. beyng fatte and of a meaner ſort. xviii. s<g ref="char:cmbAbbrStroke">̄</g>. And from Hallowmas to Chriſtmas, eue<g ref="char:EOLhyphen"/>ry Oxe beyng fat and large of bone. xlvi. s<g ref="char:cmbAbbrStroke">̄</g>. viii. ð. beyng fat of a meaner ſort. xxxix. s<g ref="char:cmbAbbrStroke">̄</g>. viii. ð. Steres and Runtes within theſame time, beyng fat and large of bone. xxvi. s<g ref="char:cmbAbbrStroke">̄</g>. viii. ð. beyng fat of a meaner ſort. xxii. s<g ref="char:cmbAbbrStroke">̄</g> viii. ð. Heiforths and Kine within theſame tyme, beeyng fat and large of bone. xxii. s<g ref="char:cmbAbbrStroke">̄</g>. of a meaner ſort. xix s<g ref="char:cmbAbbrStroke">̄</g>. And from Chriſtmas to Shroftide, euery Oxe beyng fat and large of bone. xlviii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. ð. of a meaner ſort. xli. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. ð. Steres and Runtes within theſame tyme, beyng fat and large of bone. xxviii. s. iiii. ð. of a meaner ſort. xxiiii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. ð. And from ſheryng tyme to Michaelmas, euery wether beyng a ſhere ſhepe, be<g ref="char:EOLhyphen"/>yng leane and large of bone. iii. s<g ref="char:cmbAbbrStroke">̄</g>. of a meaner ſort. ii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. ð. beyng fat and large of bone. iiii. s. beeyng fat of a meaner ſorte. iii. s. Ewes within theſame tyme, beeyng leane and large of bone. ii. s. beeyng leane of a meaner ſort. xx d. beeyng fat &amp; large of bone. ii. s. viii. d. beyng fat of a meaner ſort. ii. s. And fro<g ref="char:cmbAbbrStroke">̄</g> Michael<g ref="char:EOLhyphen"/>mas to Shroftide, euery wether beyng a ſhere ſhepe, beeyng leane and large of bone. iii. s. beyng leane of a meaner ſort. ii. s. iiii. d. beyng fat &amp; large of bone. iiii. s. iiii. d. beyng fat and of a meaner ſort. iii. s. iiii. d.</p>
+            <p>And from Midſomet to Michaelmas the pound of ſwete Butter not to be ſold aboue. i. d. <choice>
+                  <abbr>q</abbr>
+                  <expan>farthing</expan>
+               </choice>. And fro<g ref="char:cmbAbbrStroke">̄</g> Michaelmas to the Newe yeres croppe, the pound not aboue i. d. ob. Bartelled Butter of Eſſex, the pou<g ref="char:cmbAbbrStroke">̄</g>d not to bee ſolde to any the kynges ſubiectes, aboue. ob. di. <choice>
+                  <abbr>q</abbr>
+                  <expan>farthing</expan>
+               </choice>. And bartelled Butter of any other partes, to be ſold to the kynges ſubiectes, not aboue. ob. <choice>
+                  <abbr>q</abbr>
+                  <expan>farthing</expan>
+               </choice>. Cheſe of Eſſex, to bee ſold to the kynges ſubiectes, fro<g ref="char:cmbAbbrStroke">̄</g> Midſommer to Michaelmas, the pounde, not aboue. ob. Cheſe of other partes, not aboue. ob. di. <choice>
+                  <abbr>q</abbr>
+                  <expan>farthing</expan>
+               </choice>. And of Eſſex to the kynges ſubiectes, fro<g ref="char:cmbAbbrStroke">̄</g> Michaelmas, to the Newe yeres croppe, not aboue. ob. di. <choice>
+                  <abbr>q</abbr>
+                  <expan>farthing</expan>
+               </choice>. And of any other partes, not aboue. ob. <choice>
+                  <abbr>q</abbr>
+                  <expan>farthing</expan>
+               </choice>. Vpo<g ref="char:cmbAbbrStroke">̄</g> pain of forfeiture for euery Oxe, Stere, Cowe, Heckfor, and Bul<g ref="char:EOLhyphen"/>locke, that ſhould be ſold by vertue of theſaid act, and this Proclamacio<g ref="char:cmbAbbrStroke">̄</g>, and ſhall not ſo be ſold, v. f. and for euery Shepe that ſhould be ſold, by vertue of theſame act and this Proclamacion, and ſhall not ſo be ſolde. x. s. And for euery pounde of Butter and Cheſe. xii. d. And that for all and euery ſomme that ſhalbe forfeited, by vertue of theſame act, and this Proclamacion, the kyng our ſoueraigne Lorde, ſhall and maie haue his recouery and remedy, by informacion, bill, plaint, or accion of debte, in any of his highnes Cour<g ref="char:EOLhyphen"/>tes of Record. Wherefore, we conſideryng the premiſſes, to be for the wealthe and commoditie of this our realme, will and commaunde you our Shirief, of our Countie of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> within twoo daies next af<g ref="char:EOLhyphen"/>ter the receipt of this ſaid Proclamacion that ye with all ſpede ſhall Proclaime the premiſſes, in all Mar<g ref="char:EOLhyphen"/>ket Tounes, within the ſaied Countie of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and that all maner our ſubiectes, ſhall obeye the<g ref="char:EOLhyphen"/>ſame, not onely vpon the paines aboue ſaied, but alſo to incurte our indignacion and diſpleaſure.</p>
+            <p>And furthermore the kynges Maieſtie of his aucthoritie &amp; power royal, ſtraightly that geth &amp; co<g ref="char:cmbAbbrStroke">̄</g>maun<g ref="char:EOLhyphen"/>deth all maner his Iuſtices of Peace, Shirifes, Maiors and Bailifes of any tounes corporate, or any
+<pb facs="tcp:10844:3"/>othe<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miniſters to be aſſigned or appointed by any two Iuſtices of Peace of the ſayd countie, if any the market or markettes within theſame countie ſhall lacke wherwithall to furniſhe the marketies, for the relief of his louyng ſubiectes, that then they ſhal foreſee &amp; prouide that the owners, Graſiers, Drouers, Farmors, Broggers, or any other of any kynde of eſtate or degree whatſoeuer, nere adioynyng, hauyng ſuche ſtore of any kynde of the aforeſayd victual, that he may ſpare part of his ſayd ſtore, be it lene or fat (ouer and beſides the ſtore neceſſary for the maintenaunce of his houſhold, the allowaunce whereof muſt be made, in reſpecte of his accuſtomed expences, and the tyme of an other vſual prouiſion) towarde the futniture of the market, ſhall by thappointment, and ordre of the ſayd Iuſtices, and other officers aboue named, bryng to the market and markettes ſuche nombre and quantitie of the ſayd victuals, and at ſuche tyme and tymes, as they ſhall thinke the cauſe and neceſſite requyreth, and the ſame ſhall ſell there accor<g ref="char:EOLhyphen"/>dyng to the prices by the ſayd Iuſtices to be rated, as for an example, where the markettes cannot be ſer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with ſufficient quantitie of Motton, ſo that in default thereof the people happe to haue ouermuche lacke, then in that and like caſes, the kynges Maieſties will and co<g ref="char:cmbAbbrStroke">̄</g>maundement is, that the ſayd Iuſti<g ref="char:EOLhyphen"/>ces of euery countie, and officers aboue named, vpon the certain knowledge of that lacke ſhall compell all and euery ſuche perſon and perſones, as ſhall haue nigh to the ſayd market tounes, the nomber of v. C. here Shepe, for euery hundreth of the ſame v. C. and aboue, to ſend to the market ſo lackyng, at the moſt 1. of the beſt and fatteſt ſhepe of that ſort, to be ſold from tyme to tyme, and at the prices to be rated by the ſayd Iuſtices and other officers, and if leſſe lacke, then leſſe in no<g ref="char:cmbAbbrStroke">̄</g>ber, vpon like paine aforeſayd, for euery ſhepe not ſo brought to the market. Furthermore becauſe the prices of the Bieffes and Mottons hereto adioyned, be but the prices of Bieffes and Mottons aliue and ſolde in groſſe and not by retaile, as the Boucher vſeth to do: His Maieſtie notwithſtandyng the tenor of this Proclamacion, lieenſeth the Bou<g ref="char:EOLhyphen"/>cher in ſuche caſes where he ſhal buy of thoſe prices ſo to ſell aboue the ſayd price, as it ſhalbe thought &amp; ordered by the ſayd Iuſtices, and officers aboue named accordyng to the lawes &amp; eſtatutes of the realme mete, for a conuenient gaine towarde his liuyng. And ſo in all caſes the ſame to be obſerued vpon paines expreſſed in ſondry eſtatutes for the ſame.</p>
+            <p>Prouided that notwithſta<g ref="char:cmbAbbrStroke">̄</g>dyng any article or clauſe aboue mencioned, euery Boucher beyng no Gra<g ref="char:EOLhyphen"/>ſier hauyng bought, and in his poſſeſſion any maner cattell aboue the prices herein contained, before the tyme of this Proclamacion, ſhal haue licence and full libertie, to make ſale of any ſuche cartell ſo bought of thoſe prices accordyng to the rate and ꝓporcion of the price he paied or then became debtor for, with<g ref="char:EOLhyphen"/>out any couyn, by the ſpace of viii. dayes after the Proclamacion ſhalbe proclaymed, in the next market toune to his dwellyng place, or to the place where he ſhall that ſell, and after thoſe viii. dayes, then to re<g ref="char:EOLhyphen"/>maine ſubiect to the whole tenor of the Proclamacion. And herein the kynges Maieſtie to whom onely vnder God appertaineth auengement, puniſhement, and redreſſe of his peoples offences whatſoeuer the ſame be, moſt ſtraightly chargeth, and vpon the pain of his highnes extreme indignacion, commaundeth al maner of people to ſeke the redreſſe &amp; amendement of any maner offence againſt y<hi rend="sup">e</hi> tenor of this Procla<g ref="char:EOLhyphen"/>macion, or any other eſtatute or lawes, only by order of his Maieſties lawes, wout force, ryot, manaſſe, vnlawfull aſſembles, or any other diſturbance of peace. And on the contrary if any ſubiect of what degre or eſtate ſoeuer he be, ſhall contrarywiſe, and vnlawfully, that is to ſay, otherwiſe then by complaint or order of lawe, ſeke, begyn, or enterpriſe to redreſſe, his owne cauſe, or the cauſe of any other, be the ſame ne<g ref="char:EOLhyphen"/>uer ſo iuſt: Then his Maieſtie aſſerteneth and letteth the ſame to knowe, that without any maner fauor, or grace to be hoped vpon, he and euery of them, ſo offendyng, ſhall ſurely feele, by extreme puniſhement the kynges highnes vtter indignacion, and in ſuche caſe no extremitie to be ſpared, but to be taken and accepted, not onely as vnkynde, vnnatural, vnlouyng and diſobedient ſubiectes: But alſo as high trap<g ref="char:EOLhyphen"/>tors and rebellors againſt the kynges Maieſties owne royall perſon, his croune, ſtate, and dignitie: Da<g ref="char:EOLhyphen"/>ted at Richmont the ſecond of Iuly, the third yere of the reigne of kyng Edward the. <hi>VI.</hi>
+            </p>
+            <closer>God ſaue the Kyng.</closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Excuſum Londini, in edibus Richardi Graftoni Regij impreſſoris.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <p>
+               <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um priuilegio ad imprimendum ſolu<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
